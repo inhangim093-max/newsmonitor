@@ -156,6 +156,25 @@ def merge(existing: list[dict], fetched: list[dict], now: datetime) -> list[dict
     return list(by_key.values())
 
 
+def passes(art: dict, keyword: str, must_include: dict[str, list[str]]) -> bool:
+    """must_include 에 지정된 단어 중 하나라도 제목이나 요약에 있어야 해당 키워드 기사로 인정한다."""
+    words = must_include.get(keyword)
+    if not words:
+        return True
+    text = f"{art.get('title', '')} {art.get('summary', '')}"
+    return any(word in text for word in words)
+
+
+def apply_must_include(articles: list[dict], must_include: dict[str, list[str]]) -> list[dict]:
+    """저장된 기사에도 규칙을 적용해, 조건에 안 맞는 키워드를 떼고 남는 키워드가 없으면 제외한다."""
+    kept = []
+    for art in articles:
+        art["keywords"] = [kw for kw in art["keywords"] if passes(art, kw, must_include)]
+        if art["keywords"]:
+            kept.append(art)
+    return kept
+
+
 def sort_key(art: dict) -> str:
     return art.get("published") or art.get("collected") or ""
 
@@ -165,6 +184,7 @@ def main() -> int:
     groups: list[dict] = config.get("groups") or [{"name": "전체", "keywords": config["keywords"]}]
     keywords: list[str] = [kw for g in groups for kw in g["keywords"]]
     retention_days: int = config.get("retention_days", 90)
+    must_include: dict[str, list[str]] = config.get("must_include", {})
 
     naver_id = os.environ.get("NAVER_CLIENT_ID", "").strip()
     naver_secret = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
@@ -198,6 +218,7 @@ def main() -> int:
         existing = json.loads(OUTPUT_FILE.read_text(encoding="utf-8")).get("articles", [])
 
     articles = merge(existing, fetched, now)
+    articles = apply_must_include(articles, must_include)
     cutoff = (now - timedelta(days=retention_days)).isoformat()
     articles = [a for a in articles if sort_key(a) >= cutoff]
     articles.sort(key=sort_key, reverse=True)

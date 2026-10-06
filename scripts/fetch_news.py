@@ -162,7 +162,8 @@ def sort_key(art: dict) -> str:
 
 def main() -> int:
     config = json.loads(KEYWORDS_FILE.read_text(encoding="utf-8"))
-    keywords: list[str] = config["keywords"]
+    groups: list[dict] = config.get("groups") or [{"name": "전체", "keywords": config["keywords"]}]
+    keywords: list[str] = [kw for g in groups for kw in g["keywords"]]
     retention_days: int = config.get("retention_days", 90)
 
     naver_id = os.environ.get("NAVER_CLIENT_ID", "").strip()
@@ -204,7 +205,7 @@ def main() -> int:
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_FILE.write_text(
         json.dumps(
-            {"updated": now.isoformat(), "keywords": keywords, "articles": articles},
+            {"updated": now.isoformat(), "groups": groups, "keywords": keywords, "articles": articles},
             ensure_ascii=False,
             indent=1,
         )

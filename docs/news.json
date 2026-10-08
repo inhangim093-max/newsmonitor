@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:17:43+09:00",
+ "updated": "2026-10-08T18:19:01+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,30 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "2e8ea07c6aa3",
+   "title": "\"새로운 50년 연다\" 에쓰오일, 미래 이끌 신입사원 공개채용",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKYllzR1FQVWxwTEpwZlR3bnNicGJITlg3NF9tSVRBWEtIWWktRlZOYVNUSXhZWU80RVVoSnVGSkdVUUgxWTdSc2lXM3JNVzdfTVlGRlpXRkg0cU0xNzVtaERnSlRtajJmMEZBNERRdjNWdVpT?oc=5",
+   "source": "파이낸셜포스트",
+   "published": "2026-10-08T16:16:09+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-08T18:19:01+09:00"
+  },
+  {
+   "id": "a9ff2f90324e",
+   "title": "BGF, 케이엔더블유 818억에 직접 편입…반도체 소재 투자 속도",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HN2NrVm9DMHItOWRNcHBIMkVmOXZJcnljM3N1NjBMS3JVNFNIdEptZ2t2WDBQMndSRGlOZUVWY2gwNE90bHFNVFVubncwdHNCTEFLbXhKOVl5cmtBUWxYb9IBb0FVX3lxTE4tRF9kcV85UlRuN0ZLTlhMZGFFdWl1WDZRdkg3bUxCaURWOGxfd1dNM3NjTl94Yi01YUp4Q1RMbHUta3VLMXVza05HMDczNmxxQ0VHMFoxc2RhbVo2TmZqX1Jta0RjVVZyYXBHXzFGYw?oc=5",
+   "source": "토요경제",
+   "published": "2026-10-08T09:41:18+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-08T18:19:01+09:00"
+  },
   {
    "id": "e288413781d0",
    "title": "BGF, 계열사 지분 정리…‘4→3단계’로 지배구조 단순화",
@@ -220,6 +244,18 @@
    "collected": "2026-10-07T18:18:50+09:00"
   },
   {
+   "id": "00a048916ec3",
+   "title": "고려아연 온산제련소, 울산시와 민·관 합동 봉사활동 진행",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEbzZCT05vMVFPTlItSVBOLXRGZEVxSS1wNWN2aGxOUmJRTWR3VFdCU2NYdkhaSFlmaDJvZTkxNmxTalYtODBseEk2T3dGZnNIc2FlYVhlbTR6UThORXhmOXdncTNFM05WRnk1YlJ1YjXSAXRBVV95cUxNS0VxdHJsazBNQzNvb0JEb0VFdWlESThFa0o5ejFXbkZhSTEzOXBta09ySU5YSHl0aklCMG9tb0hxSVh5QzYzdDh5dUtNWl9aQmMxZk5LaGQwOTBaVlIxQm41cFFmeE85TnBaZHZmLTNfelpURw?oc=5",
+   "source": "주간한국",
+   "published": "2026-10-06T14:06:43+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-10-08T18:19:01+09:00"
+  },
+  {
    "id": "e04f3b2ecd18",
    "title": "고려아연 온산제련소, 울산시와 민·관 합동 봉사활동",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RZEhJZ0hPYk9ubHY2V01XNXdOTWxQUzVOc2VUU1p1MFY1MkZHWWZucVc5WDltbkstSWEwYXhqRTZZcjhhU0JhS1gxbHZEQ09zUFl1Yks2OVFTME9FZzJkRmdrejZDODQ?oc=5",
@@ -399,6 +435,18 @@
     "여수국가산단"
    ],
    "collected": "2026-10-07T18:18:50+09:00"
+  },
+  {
+   "id": "712ae6baaf35",
+   "title": "여수 재생에너지 확대 본격화…공공부지부터 가용자원까지",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMc2RZd0FUcWN5MGJESG9Cb2lWaUpBajVBXzgyLXl5emZvOU5lcmdYM2V2TDlSUjdBTXhMZFplMlpmUGFLcmg0Z0l1MWVPY2xnSkNfUThUOVk3bzNoRVB4N2dRbFB0QQ?oc=5",
+   "source": "뉴스탑전남",
+   "published": "2026-10-02T16:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-08T18:19:01+09:00"
   },
   {
    "id": "2cb19cf4794c",

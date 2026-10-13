@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:18:33+09:00",
+ "updated": "2026-10-13T18:20:23+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,42 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "56f83d7c1e2e",
+   "title": "여수 인구 26만명 붕괴…\"비상 걸린 인구정책 재점검\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NNGZjTTV4Z2xET1F4R1BFOTFCME9abUNwakh2ZVVfV1BUcWVpclhteml1MzY1WXpERFlhSkpJcFA1TjBPQ3ZWbkxybW1KTExUV0RkSkE5VGJyWmhLRGdrX9IBeEFVX3lxTE1sdWw4MzhwWDliSWF3dGpMRER2N0dzQVhFUC1DZXF4YV9wMFJ1UU9TTnZPbWVKdkVFeXVhWFptU2tGNERFMW9QWUlwMmIzOHlFLUctVHFLZEtraV9ER3hTQ01Cc0lXc1RnMXpQeTRxaFg5NlZtTUhmeQ?oc=5",
+   "source": "뉴시스",
+   "published": "2026-10-13T16:51:44+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-13T18:20:23+09:00"
+  },
+  {
+   "id": "ebcf3fe702e8",
+   "title": "여수산단 비를라카본코리아, 사망·끼임 이어 가스 누출 의심 사고…안전관리 허점 드러나",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ub1JZVUFFNEg1SHpCbGtDSmlPcHUxU0FVOGhIRDdzTExUbmh2Q1E5MFpIdE1TczFaVldNb01BZTBkb24xbFZ4THphZTd4S2o0UHhwUXNIVUN5N0lpYnJkN2kwakktVGVVQ29RLQ?oc=5",
+   "source": "광주in",
+   "published": "2026-10-13T16:08:49+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-13T18:20:23+09:00"
+  },
+  {
+   "id": "3961a8be565f",
+   "title": "여수 인구 26만명 붕괴…청년 떠나고 고령화 심화",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Gb1UxSEtjWmJDbk4xOHRmMTkwVnFxMmd3OG91Tm5SWFVHaDFza1pJd1pSTmxmMnFBOXczUTlsUzZXRjVBR1hidmZiQkMtU0JKMEdqbFQwUjRUYzEwbjVYYXk4UXY?oc=5",
+   "source": "매일일보",
+   "published": "2026-10-13T12:59:04+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-13T18:20:23+09:00"
+  },
   {
    "id": "4abc4130bbdb",
    "title": "전남광주 반도체 산업벨트 동서로 확장…여수·무안 연계",

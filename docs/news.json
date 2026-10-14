@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:31:12+09:00",
+ "updated": "2026-10-15T07:28:28+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -28,6 +28,19 @@
  ],
  "articles": [
   {
+   "id": "ad8469cc0dc6",
+   "title": "온산읍 주민 “마지막 완충녹지, 주민건강 위해 지켜야”",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iY3UxaEhJWG5Cb1FEa1NKZDJkemRWS3Y5aFhmSlBpYWdOcUZxc1k3dHg4N1p2c3phcjh3T3UtR29Wdy15MHNBeFl3dXRqRDkwWGUwdzVIWFl2b2NwSHpKY21KR1hvZw?oc=5",
+   "source": "울산제일일보",
+   "published": "2026-10-14T21:53:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단",
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-15T07:28:28+09:00"
+  },
+  {
    "id": "9d42e086e641",
    "title": "화학공장 불길이 샤힌 프로젝트 현장까지…작업자 7000여 명 긴급 대피",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WQUdSUXV0N1BrZUFmYWMtRW5veUVfcFZVQkYyWW5ST1NvdnZ5NFdORUxGcldFQVdKUFpRbjYwdVFmeDJLNFpiRDNXN2FRUQ?oc=5",
@@ -35,7 +48,8 @@
    "published": "2026-10-14T17:31:01+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산단"
+    "온산국가산단",
+    "온산국가산업단지"
    ],
    "collected": "2026-10-14T18:31:12+09:00"
   },
@@ -63,6 +77,18 @@
     "온산국가산업단지"
    ],
    "collected": "2026-10-14T18:31:12+09:00"
+  },
+  {
+   "id": "8ae1e67e87ce",
+   "title": "울산 온산공단 화학업체 큰불…위험물 탱크 7기로 번져 7천여 명 긴급 대피",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wWVZZX180YWhUVjhsUjNwdXdlOUswc2MyQ2VLZkp2V2dVZnhua3BNb0ZwY2k3eDM5bV9Nd3pDenhhYWFJOE5XZXR6LUNKMFNBNFBSZE1HS3RxQVUtdV83MFNURmk?oc=5",
+   "source": "https://www.ppss.kr/",
+   "published": "2026-10-14T16:12:26+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-15T07:28:28+09:00"
   },
   {
    "id": "2eaa15ac0ca1",
@@ -100,6 +126,18 @@
     "온산국가산업단지"
    ],
    "collected": "2026-10-14T18:31:12+09:00"
+  },
+  {
+   "id": "7412ae59b7d9",
+   "title": "울산 온산공단 화학공장서 큰불…작업자 7천 명 대피, 인명피해 없어",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wVVZzZ2VnRnlrMGZMbVU2VTFGWnNFNVkwbW52SkpCTWVMakxKTDdabUhjTlRfMDRoelZkWEZXVkpYVzREeHlsdURTb2RLVWlYWDQxb3pucw?oc=5",
+   "source": "부산경남대표방송 KNN 뉴스",
+   "published": "2026-10-14T14:24:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-15T07:28:28+09:00"
   },
   {
    "id": "7fe5fb04162a",

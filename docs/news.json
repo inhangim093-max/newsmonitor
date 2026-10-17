@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:25:05+09:00",
+ "updated": "2026-10-17T18:24:12+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,18 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "87b5c96b389e",
+   "title": "석유화학 불황에 돌파구 찾는 여수",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VOVdXUFJCa19waUNGRHFkVmc0RF8zYWYxTndhSXdtd1pleHRNTEhhckF2M3RFcmV5MFhHRFRlc1dDTUhYVjFhZ2R4c0xSZ3BuVnpZQ080VEhQcU9RU21xbm50Wk56Y1pPQWJBT2pB?oc=5",
+   "source": "뉴스후플러스",
+   "published": "2026-10-17T14:02:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-17T18:24:12+09:00"
+  },
   {
    "id": "38fa660b712d",
    "title": "서영학 여수시장, 율촌 미래첨단 산업단지서 ‘현장 간부회의’ 열어",
@@ -376,7 +388,8 @@
    "published": "2026-10-14T11:53:00+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산업단지"
+    "온산국가산업단지",
+    "온산국가산단"
    ],
    "collected": "2026-10-14T12:27:40+09:00"
   },

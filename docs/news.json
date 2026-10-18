@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:24:09+09:00",
+ "updated": "2026-10-19T07:23:58+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,30 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "47ce1877c186",
+   "title": "중동전쟁 특수 끝나자 다시 적자…석유화학 3분기 '먹구름'",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUN05xZ1lnT2VKanRiQXBUVGNZU0JVUjdtSkNzbEN4WWIzVEE4a1ZDVkZWNkx3UklQN29LNzVxUkp1WlNSWm5vSVZLSG10Z184N2dzUEhyTzJ5Zl9FczJsNFZUSkY?oc=5",
+   "source": "뉴스1",
+   "published": "2026-10-19T06:15:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-19T07:23:58+09:00"
+  },
+  {
+   "id": "240210ccf77d",
+   "title": "여수국가산단 한국남동발전 50대 노동자 추락사",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJWi1HVUJtMktJWkFHWHE5TmJpSTFWMHJHcHJ6LU9wT3dYY3pPSG9nbnZkRVFNSkJVUTVWUDlBOWQ2Zw?oc=5",
+   "source": "브레이크뉴스",
+   "published": "2026-10-18T20:36:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-19T07:23:58+09:00"
+  },
   {
    "id": "87b5c96b389e",
    "title": "석유화학 불황에 돌파구 찾는 여수",
@@ -98,6 +122,18 @@
     "여수국가산업단지"
    ],
    "collected": "2026-10-17T07:27:38+09:00"
+  },
+  {
+   "id": "aa1ccffedb27",
+   "title": "여수에도 ‘전격전’이 필요하다",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pc19KYkU2Z2pfYXVhWDJWWnh1Um5ieWl3dDJFai1ORTMyZThzUDhhRzUyajdCcllDQWdzMzNpVHEtMWtoVWVTbU9QTC1mU04zU1FhTGNkV2Z1blZxM0RvN2wyMHZBUQ?oc=5",
+   "source": "뉴스탑전남",
+   "published": "2026-10-16T16:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-19T07:23:58+09:00"
   },
   {
    "id": "f0aeab726af7",

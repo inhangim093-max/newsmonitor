@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:28:49+09:00",
+ "updated": "2026-10-22T18:32:11+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,42 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "980d566c02db",
+   "title": "울산 온산 폐기물 소각업체 불…\"검은 연기, 퇴근길 정체\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CMFZ1OWtpdmQwdWlWNUZUVFFCaTV6Q3k5X0xPdnFDeWZiSmtFbVZjRUNXMTZTcU9ES2kzSjk3V3F3R0FEWFV0QXhpd3c1NExTUnF4TllfNkJ1VDlrVUU5S9IBeEFVX3lxTE1PYUJ6MXppaW5FOFdkOTExRjc2UXMyUmE1aHNHU2ItbGEyV250MXdPWXR1czJpbS1sQzUzQ21pT1NRaVVNX1dRWUJPS19wUE1CNVE0QXRlOFh2QkpfMjhhV053Q0xiV0JRczYwYVJPMjBTUFA2eXZ1LQ?oc=5",
+   "source": "뉴시스",
+   "published": "2026-10-22T18:12:32+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-10-22T18:32:11+09:00"
+  },
+  {
+   "id": "ac5f76b62411",
+   "title": "울산 남울주소방서, 위험물 취급 특별 안전교육 실시",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTHFHZUhQbFMtWllCdXNhQnpPTkFhdWlfTEZFV2lIZmFDd2k1RTdGTExMTlcySTJYbm1TY1hneG1IV25yZnpHY0lZaUFBdUxtMmp1cDBPdHg3ci1yZlhrZU5kZzIxUEpERXVEWm5B?oc=5",
+   "source": "울산종합일보",
+   "published": "2026-10-22T17:07:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-22T18:32:11+09:00"
+  },
+  {
+   "id": "76cb85da9909",
+   "title": "에쓰오일, 샤힌 공장에 디지털 제조 운영시스템 구축",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01d3RiSm8zZndqQWNldV9xWDFSYlk1akxHTGpUTHhtcjRnXzlXeTVzNW14NGxIVDVVSEt5QXU5cjJBRVNIX0FXaVZjWW9xUlBRQi00NWZRS1U3QQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-22T14:41:54+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-22T18:32:11+09:00"
+  },
   {
    "id": "bb6ef6c08052",
    "title": "에너지 특례·전력망 확대…여수, 재생전력·산단 연결 과제",

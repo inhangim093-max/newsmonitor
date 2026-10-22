@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:29:54+09:00",
+ "updated": "2026-10-22T12:28:49+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,43 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "bb6ef6c08052",
+   "title": "에너지 특례·전력망 확대…여수, 재생전력·산단 연결 과제",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRGRVQmlzNXlDb2NXdHhKZkRzdlQyMmpzUkI5MU95NXlnU0pxRGNXY0dQX2V5U1lGUFRtSThoOEw3MzB5N1BzUFhvNU5mUE9hTVlRWERtcHYwT2lGVFJrbkotcUVMZw?oc=5",
+   "source": "뉴스탑전남",
+   "published": "2026-10-22T11:16:33+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-22T12:28:49+09:00"
+  },
+  {
+   "id": "ee56d9c2023a",
+   "title": "여수시, ‘2026 전남광주 청정수소 포럼’ 개최…수소산업 육성 방안 논의",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ReXlmSmVwYy1uaTFrV0w5YW5yRW9qNjlHWGFmVG5rUUMwakpJOV9PcjlXNldjM2E1dC12SGNmSUdrYkxoUzIyN29RdXBEYTB6M3RaaHpuOG0zWlpkQjdDVEdNMW8?oc=5",
+   "source": "매일일보",
+   "published": "2026-10-22T11:04:04+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-22T12:28:49+09:00"
+  },
+  {
+   "id": "be876f01a6b2",
+   "title": "위험물 취급 특별 안전교육 실시",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LeUNhYXhkUFZsV1k5RVpFNmRVc2otN3dtX2pCWGZKOWE1V25LcmxvaklKNUhFR25iUDc4RmNzYms0c21nWlZYZVFhZ29URnVKT3RJa09pQmo1TjlicGJwc0FfSl9ESlJvalJjd0pUbw?oc=5",
+   "source": "서프라이즈뉴스",
+   "published": "2026-10-22T08:04:07+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-22T12:28:49+09:00"
+  },
   {
    "id": "d45667eb5496",
    "title": "여수 석유화학산업, 청정수소 전환 논의…율촌 수소허브 사업에 관심",

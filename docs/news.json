@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:27:44+09:00",
+ "updated": "2026-10-25T18:25:23+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,18 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "486c9ed7b714",
+   "title": "배관 부식 징후까지 포착…산단 안전관리 AX 속도",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITXRmeXBqV3hsdUN1OC12WWxYdkc4eUVOVlMzRFRjTGdBeENtSjJuOU9MRklveFRzZ1R4NUFIZ0t1eXpkTHBNckRxQkJqR09rY2o5OTZzT0R0dw?oc=5",
+   "source": "한국경제",
+   "published": "2026-10-25T18:15:55+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-25T18:25:23+09:00"
+  },
   {
    "id": "18727785babf",
    "title": "고려아연, 영풍 제기 8,370억 손배소 1심 승소…온산제련소 경영 안정성 주목",
@@ -448,6 +460,18 @@
     "온산국가산업단지"
    ],
    "collected": "2026-10-22T07:29:54+09:00"
+  },
+  {
+   "id": "c8c69308295e",
+   "title": "전남광주소방본부, 여수 LG화학 현장 점검",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvYlhYeTdZUWY1U2RwbzVYbDdLZ0FVbjJIUy1MTmN6bHdtdkE2VjdJRmJZV3l4aTJaRDNGelQxTDJXQi1FcVgtMWZNdTNTVVpGVVR4RkUxR0JuWDJSQWtuaNIBYEFVX3lxTFBvYlhYeTdZUWY1U2RwbzVYbDdLZ0FVbjJIUy1MTmN6bHdtdkE2VjdJRmJZV3l4aTJaRDNGelQxTDJXQi1FcVgtMWZNdTNTVVpGVVR4RkUxR0JuWDJSQWtuaA?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-20T14:25:31+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-25T18:25:23+09:00"
   },
   {
    "id": "c63d3a1b9c45",

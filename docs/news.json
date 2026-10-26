@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:31:18+09:00",
+ "updated": "2026-10-26T18:38:46+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,54 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "38224416e88c",
+   "title": "\"호남 반도체 산단 앞당기려 부산·대구 등 변압기 가져다 사용\"",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmlrVEhYMndRd0FtUFlKMnZ3bG9iYS1nWFhfNmNscWpoNzZoa3pPOC1oc1hNV3dQRGVNWXpYU1luV2ZlMUZoWkZuVndKMm5RNElnaUtvVDB6VlJxVV9uNlhTRDV2RlpWcTRCaXMzWTV0VVU5Mjg5QVhPOUEwdl9ERGhGVEhoRXV4QzNTLS1VVzYxc2s?oc=5",
+   "source": "국제신문",
+   "published": "2026-10-26T16:51:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-26T18:38:46+09:00"
+  },
+  {
+   "id": "7aa318d71f5f",
+   "title": "호남반도체 산단 공기단축위해 다른 지방산단 변압기 빼오겠다는 기후부?",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jV29ydW96Q2ttaFpFSmxGMDl1cTNiQ2NNV0dZa3F3WE00YmpOeU54U0tRNWkzb1lQbGFaWTZjSWVQSzlRUEVWbExmTkJNUEx4b1N4N2VRSFpSRzJiZFEyYUFYNzZZaUkya0ZiemZVdUR5UzBtSmfSAXZBVV95cUxPY1dvcnVvekNrbWhaRUpsRjA5dXEzYkNjTVdHWWtxd1hNNGJqTnlOeFNLUTVpM29ZUGxhWlk2Y0llUEs5UVBFVmxMZk5CTVBMeG9TeDdlUUhaUkcyYmRRMmFBWDc2WWlJMmtGYnpmVXVEeVMwbUpn?oc=5",
+   "source": "에너지타임뉴스",
+   "published": "2026-10-26T16:32:47+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-26T18:38:46+09:00"
+  },
+  {
+   "id": "8cc4e1cb4361",
+   "title": "삼일동, 여수국가산단과 함께하는 ‘제2회 주민총회 및 제11회 동민의 날’ 성료",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPMUJ3SFU1TmVjWlE1RFNmVHdVekZ2UzZXWVU3NXNqbkcwYmpMemR5a3h3d0dBLXptTVcydk1MNGRPWDlULTNkY2hERWNQaDdSbjFjNGNORVlvb0l0RThxMTRVbXdPWjdUNVE?oc=5",
+   "source": "도민연합뉴스",
+   "published": "2026-10-26T16:25:08+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-26T18:38:46+09:00"
+  },
+  {
+   "id": "a5b26fe3a059",
+   "title": "호남 반도체 송전망 조기 구축 위해 타지역 변압기 쓰기로",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpMzQyR1ZRNXRpajhrVWJSMkYxcGUxNlpxM0QyYWZaWG1uYU0ybm9wdWlaN3gxMXhfbFhkVzRiRlRhdlZIb1NoS0otWE80aC1DcmItOERNbkJFTHZTdXRkTtIBYEFVX3lxTFBpMzQyR1ZRNXRpajhrVWJSMkYxcGUxNlpxM0QyYWZaWG1uYU0ybm9wdWlaN3gxMXhfbFhkVzRiRlRhdlZIb1NoS0otWE80aC1DcmItOERNbkJFTHZTdXRkTg?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-10-26T16:05:01+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-26T18:38:46+09:00"
+  },
   {
    "id": "486c9ed7b714",
    "title": "배관 부식 징후까지 포착…산단 안전관리 AX 속도",
@@ -62,6 +110,18 @@
     "여수국가산단"
    ],
    "collected": "2026-10-26T07:22:40+09:00"
+  },
+  {
+   "id": "9fe4ae8eb1d4",
+   "title": "여수시의회 제258회 임시회 폐회…산단 안전·섬박람회 사후활용 주문",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UDZGS3NIZmltakdtS21VS05JanBCT0IzUFpmZ2hKcEJndVd4UUlvM3F3VkVWZENzX3VYeEY3bkd3WklOVm5TVGJURlUyS29WWHRsbnVEbWRPZmZQVHdYRXFidFN2OGs4dFJoQtIBcEFVX3lxTE5OTVdoNG1NeGUxZXlPRGZjRVIteExTLWNCSHVjc09OWDZmTEtvMWVVSW5UTmJ6NEpjZWFlX0gxRDdNVkdzSHc0NlRYMUVsVlR2dnlKUVZZMmdjMllsX281VmRERTlPaGlST2FzRG5qV2c?oc=5",
+   "source": "남도일보",
+   "published": "2026-10-25T16:50:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-26T18:38:46+09:00"
   },
   {
    "id": "fcb7d229facf",
@@ -362,6 +422,18 @@
     "여수국가산단"
    ],
    "collected": "2026-10-23T07:28:33+09:00"
+  },
+  {
+   "id": "1fb822415f57",
+   "title": "[단독]9조원 투입 '샤힌 프로젝트' 결실…에쓰오일, 내달 25일 준공식",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NMVdab0ptVHpDX0tEVk9ta1AzZzBYb3NvdUxTM1JfcmFINEN1VGNnVlltTUtrZ2h2dmlnTFIza18yLV9HVG9rcXlvNi1fNWxKbFNVc0J0NHg2c3BXdUFIbXREZHhPTEtrQmFwWERQSVVDaG5XWmk1QXVzN20?oc=5",
+   "source": "이데일리TV",
+   "published": "2026-10-22T14:20:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-26T18:38:46+09:00"
   },
   {
    "id": "bb6ef6c08052",

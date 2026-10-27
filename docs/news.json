@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T07:32:26+09:00",
+ "updated": "2026-10-27T12:31:10+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,30 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "8beb22e89cb3",
+   "title": "여수시 삼일동, 여수국가산단과 함께하는 ‘제2회 주민총회 및 제11회 동민의 날’ 성료",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DS0hfd1FEa1J2UXdpNDJWUUpUSFF6Vm5GUFZvblkzcGZZNXo2cWZMamlFY1FOY096UTNGVVI3dElKMWdCYlpDc0wwa29SVjVveFBueWF0UkNCY0hJQVV6UkhZaUFUcDJjN3JN?oc=5",
+   "source": "서울일보",
+   "published": "2026-10-27T09:33:53+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-27T12:31:10+09:00"
+  },
+  {
+   "id": "a9054f742aeb",
+   "title": "울산신항 배후단지 3단계, 에너지허브 연계를",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTF9HRkcwRDEweTdTbUNkeUlOTHd5VVUyX1NyYjR4MV82SGwzZVNfX1NsbHNRS1dobVg5U21yZTBGVUFfbzhaZkdlbGx5QlZ4SWlaSUsxZ0IxUzNjT1cwRDJNTXFEV2R2M0RNQmtR?oc=5",
+   "source": "울산일보",
+   "published": "2026-10-27T00:01:37+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-27T12:31:10+09:00"
+  },
   {
    "id": "38224416e88c",
    "title": "\"호남 반도체 산단 앞당기려 부산·대구 등 변압기 가져다 사용\"",

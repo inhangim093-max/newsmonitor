@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:43:48+09:00",
+ "updated": "2026-10-29T07:37:30+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,79 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "62d0854f64bf",
+   "title": "여수소방서, 여수산단 추락 사고자 신속 구조",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CaEFBUF95OTlob01zZnp2NWJvRWJlMl9uWGZNS2pIUVREQXN0QmViZVNRVWxzTzdCUE9qRjBuRXRBZGNFWlYzYmlVT0lJOGtZNXJTOTZoNmttQjV6cTg3R3VPNW9vcXNj?oc=5",
+   "source": "남해안신문",
+   "published": "2026-10-29T06:05:53+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-29T07:37:30+09:00"
+  },
+  {
+   "id": "1b3e5a76d78f",
+   "title": "서범수 울주 국회의원 '불법성토 방지·지역혁신 촉진위한 민생법안 3건 대표발의",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KMjBlT0h4OGtoTXJyTjJlcTRYczNPNHNlU1o3d29TSXZtdkhHejRWQy1hNVlpMDlSRkN1cTJhWHhCVnZ1TVN1WHhocFhZYTR3cWNUeVZQeDA2a2Z5blNmRXR6VE5BMGs?oc=5",
+   "source": "전국구직노조신문",
+   "published": "2026-10-28T20:17:39+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-10-29T07:37:30+09:00"
+  },
+  {
+   "id": "0dd908dcfa67",
+   "title": "여수국가산단 '2026 CCU 기술 전략 세미나' 11월 5일 개최.... 저탄소 산업전환 모색",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mTVZ1UGQzajl0UG5NNTl2bnhyZk4zb2NwdS1xRjgtbU5nWmduMWNZLTJsNWE3NWlyUUx0NGQxX21tejBPVm1tVTZjY2N6WnM?oc=5",
+   "source": "https://www.didimkorea.net/",
+   "published": "2026-10-28T19:09:40+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-29T07:37:30+09:00"
+  },
+  {
+   "id": "907e4dae8efd",
+   "title": "여수산단 작업자 추락… 119구조대 로프 활용해 구조",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2NFhMVEtRWjRJUEN0eG9SQ2ZpMWlHUVpMWW5EUVpqbC00OGcxX2QtSFRaUlY1NE1qSURJMFl3R1UxVGE0Unh1akhYV00zN3IzV00zeDdROFJya1dBVUFyMnZsaTR2bTdnbVE?oc=5",
+   "source": "천지일보",
+   "published": "2026-10-28T19:08:18+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-29T07:37:30+09:00"
+  },
+  {
+   "id": "2f2c6f5520cc",
+   "title": "여수소방서, 여수산단 추락 사고자 신속 구조 성공",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5nN3JtWnY0amRSZnlkQm5UQnNhWVl6X3dlcWNsNnBNbWVVTGlDQmdDYUxNRzdBa0ZjZU5OTVBmRlV0SXhKZmc?oc=5",
+   "source": "케이에스피뉴스",
+   "published": "2026-10-28T18:30:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-29T07:37:30+09:00"
+  },
+  {
+   "id": "4ffe1f16ab5d",
+   "title": "울산 온산 폐기물 업체서 엿새 만에 또 화재…폭발 우려에 모래로 진화",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OdkdaV2ZsN0xyNEE3S2V4amJZd1dleXhVNC1sVEFPaWJma3JkMnUtaThQbl9jbXM4ZkhuQVcyVFMtam44RlpsdHB4UFFOM0RSa1hNQjlnUTQ2MEhRU19OS19lamlPUQ?oc=5",
+   "source": "잉크뉴스",
+   "published": "2026-10-28T17:18:18+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-10-29T07:37:30+09:00"
+  },
   {
    "id": "21f6b0e84b4b",
    "title": "에쓰오일, 정유 호황 속 9조 샤힌 가동 임박···석화 불황 돌파할까",
@@ -256,6 +329,18 @@
     "여수국가산단"
    ],
    "collected": "2026-10-26T18:38:46+09:00"
+  },
+  {
+   "id": "98766c93f079",
+   "title": "'재발 방지' 약속 1년 만에 또 노동자 사망… 여수산단 남해화학 안전관리 도마",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZFAzM1BZYVhvOFA0MVkzUm9QWTM4T1VIWXNBQm5ORFBIdmFDSjcyZmpmQzRoQXA5Y2UxeUtKaTYxNVFfV2lKNktsaFZ1cFVzNnZ3VEVxZVBYZ0FjTkxZTGNRSTMtT2pUeVpz0gFvQVVfeXFMTTdLUXNCamFmRWdsYnNBSzU2My16SUVvRWQ5czd3bHFJRjVpVjNKUXJyclNiWElyRDlNTm05SkxwaGlsVG9HMl91ODNMS3o1MnBodmlMc0JCYmU2M2c3ZFY1SXVMZ2w2QlhrVU44UjJz?oc=5",
+   "source": "남도방송",
+   "published": "2026-10-26T10:24:58+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-29T07:37:30+09:00"
   },
   {
    "id": "486c9ed7b714",

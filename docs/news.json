@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:47:16+09:00",
+ "updated": "2026-10-31T07:37:28+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -28,6 +28,30 @@
  ],
  "articles": [
   {
+   "id": "f87ac1f338ff",
+   "title": "소득 1위 울산의 역설…돈 많이 벌어도 ‘이것’ 없어 떠난다",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhV0RQTl9fRHlybUR6T2lVTG4yOTJreUxXamxadVg2R0dqakJKWk40OTdheExTR1c3NkVsUU9KRUM0T182WkxOQkQzeDBNTFZjZ0x5akNR?oc=5",
+   "source": "중앙일보",
+   "published": "2026-10-31T07:00:01+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-31T07:37:28+09:00"
+  },
+  {
+   "id": "57015cb9032d",
+   "title": "공단엔 수만명 일하는데…창원·울산·구미 산업도시 단기임대 매물 '바닥'",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82amhHRDg3UFZVQjM1NFZoMW5rTHlNVHFDc2N4VVROUzhtS2M1Q180bUx4cVd3bmxjZ0d6REZhSnVfMW9tZU9OOXJGclg3N0hYb1hQNm15M1RsZTVibGhDSWpzdVBiVkNMdWJvcEY4dDR1alpvLVg0MTNUcVcyYjTSAXNBVV95cUxPU0dVMS1SbUE0Z1hPVlNkVlVwUC05Nmt5MDdlbk1maTduTlZjYVVyLW16MWpRSzc2MC1zel9UWlUwLUJ3TDBfcEVHRlVQVFJUZExhR3RWbVNtYXljbjRYQnJtQ1dZcGJoT0ZYVXJTdS1McF9B?oc=5",
+   "source": "땅집고",
+   "published": "2026-10-31T06:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-10-31T07:37:28+09:00"
+  },
+  {
    "id": "c7a02eb006a8",
    "title": "여수시, 여수산단 피지컬 AI 실증 제안 설명회 개최",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ncW44VkduZlpxN0lnbE5PbDhoaTNEYUFfaWc1ZHc4dDdIcVlXTUItbGtONjQ2RlVtQkx4Z3pvWkpkRDQta2MxVzYtN2ZBMFI4U0VLdEhVcVl4aWktYUl4bQ?oc=5",
@@ -38,6 +62,19 @@
     "여수국가산단"
    ],
    "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "da8349362af1",
+   "title": "여수국가산단, 피지컬 AI 도입 모색…제조현장 적용 가능성 논의",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92MDhrR0QtX0U0b3hYMnQzdjFBd3pwWU9MOVJpalF4OG51MVhnX0NGZFZhTG9FZGxjLXJHdzZkWGNTelhtNWV1X05YanlJTTdVbTVTMm9kR2N3d2xsVEluT1pqZGhubjg?oc=5",
+   "source": "작은뉴스",
+   "published": "2026-10-30T17:47:10+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-31T07:37:28+09:00"
   },
   {
    "id": "541fc17555e3",
@@ -62,6 +99,18 @@
     "여수국가산업단지"
    ],
    "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "7140bd94996c",
+   "title": "UPA, 한국물류대상서 국토교통부 장관 표창 수상",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMzAzNTdLdGhhVVRydjVnUWxTRHktWTc4SUhsWWoyWk91dlIwODlGRkVZcFEyVENTTzFySnM4Z0thUG5qcXhWbUR3Vl81bTFwNGpJX3JYcUUxMEh2dUpUNGJjcUdSQzMwSEd5RmxjVHFLSFF4cmNVejhzN0dzUXRCbFNBdFh0ZmYtYkxoN2l0b281YmN5clVVVFJRY01YRHhGODZFMzhLaWxfOVNqSGZZSWFoeW1fVEZaV19UOElNR1JJc3FOazE5LXFTT1NreHhxMHc1dm5lWG8zaVlBY3JpbjNKcVpaeGg4YWFTTl91Q2ZYUHhCcE5wM3lRQXpodjJaRlpYclRGQk0tMWNid2c?oc=5",
+   "source": "데일리안",
+   "published": "2026-10-30T15:31:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-31T07:37:28+09:00"
   },
   {
    "id": "4752ae349118",

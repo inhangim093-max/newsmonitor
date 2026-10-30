@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:43:17+09:00",
+ "updated": "2026-10-30T18:47:16+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,91 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "c7a02eb006a8",
+   "title": "여수시, 여수산단 피지컬 AI 실증 제안 설명회 개최",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ncW44VkduZlpxN0lnbE5PbDhoaTNEYUFfaWc1ZHc4dDdIcVlXTUItbGtONjQ2RlVtQkx4Z3pvWkpkRDQta2MxVzYtN2ZBMFI4U0VLdEhVcVl4aWktYUl4bQ?oc=5",
+   "source": "KBC광주방송",
+   "published": "2026-10-30T18:08:48+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "541fc17555e3",
+   "title": "UPA, 지역 물류 혁신 유공 국토교통부 장관 표창",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56eHVXZ1RxNEY4bUpGaXdQLXJqamxhdDdDSDJVMXBzVkJLUmtJSlVRV2dHenRxd0ZQVGRKOVhlZGxnc2RabkRsR2p3WWxBS3N0VUhuYVZ0OHN4Sk5hVWJZZw?oc=5",
+   "source": "해양통신",
+   "published": "2026-10-30T15:59:05+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "88ab413a0620",
+   "title": "여수 산업·섬의 소리 담은 김서량 개인전 31일 개막",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03RzlJTldGR3VLX1ZpRkk0eVpjN0s4Vy01YUZocURVYkV6eENyXzFLelFKazdraVIzbml0cWVqbnYzV1FGc0dLYnY5RkY0d0U3aU1jbnhnbXRiWS1VdWVVNlJLVnVQeUNFTkNoMHFjSXZPdjNGRGg0WtIBeEFVX3lxTE03RzlJTldGR3VLX1ZpRkk0eVpjN0s4Vy01YUZocURVYkV6eENyXzFLelFKazdraVIzbml0cWVqbnYzV1FGc0dLYnY5RkY0d0U3aU1jbnhnbXRiWS1VdWVVNlJLVnVQeUNFTkNoMHFjSXZPdjNGRGg0Wg?oc=5",
+   "source": "뉴시스",
+   "published": "2026-10-30T15:42:56+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "4752ae349118",
+   "title": "여수시, 산단 로봇·AI 도입 길 모색…피지컬 AI 실증 설명회 열고 AX 선도 노린다",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52QkZkM2ItVXRHTmZKNmh4ZFRBbFJlS2lkMmxVeW5KSkhadmNvRmhhSWJpdk1kWElFR0I4LWVfWWlaNThyczB5WkhKSEs4aVF4dFhXdVg3MXdkYWc0MjE3WnN1VzNCdw?oc=5",
+   "source": "한국뉴스코리아",
+   "published": "2026-10-30T14:49:25+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "dee22508657b",
+   "title": "여수국가산단, 피지컬 AI 실증 논의…제조현장 적용 가능성 모색 - 보도자료 | 기사",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WWlN6NDJ6SE9TY0h3MFJkS09wTjdHOUc0cFJxUi1IaFJaWkpNal9wUVFBdFJ1eS1seUNFVWRrRlZmakMtazNTMUJXandWSnVoZUx2LTFvb3JyVWNBNEQ4?oc=5",
+   "source": "더팩트",
+   "published": "2026-10-30T14:39:14+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "3ff88a8d6e39",
+   "title": "여수시, 피지컬 AI 실증 제안 설명회 개최 … 국가산단 AX 선도모델 모색",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSEZIYllXS3JQdU15RFROQTB5ellpQTlwLXVxX19LWmpfemtOY3ZQanRwM2xSUl83azJYTVFyX0ViMDZkY1gyNFBTTXFtWVVJTWZBZllRdnNEZmVzY3Z4bEZvTjJwUGI0OXR1VQ?oc=5",
+   "source": "호남타임즈",
+   "published": "2026-10-30T13:39:34+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-30T18:47:16+09:00"
+  },
+  {
+   "id": "56bb1dc12fae",
+   "title": "여수시, 국가산단 피지컬 AI 실증 추진…제조업 혁신 모색",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XeGR3am9FbTVNWWRjUUlnSDB2MjhKeVpldVRpVTJIRnREOWh0NWFxU1J1RVA5TnhCSi1TWDdCMXRsTFNNQ09FUTFUcU1XZV9ETWEwd2lDZkxQQTdFYVpxSDE1Y1M?oc=5",
+   "source": "매일일보",
+   "published": "2026-10-30T12:49:30+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-10-30T18:47:16+09:00"
+  },
   {
    "id": "fc89c972e387",
    "title": "여수국가산단, 피지컬 AI 실증 구상…석유화학 제조현장 AI 적용 모색",

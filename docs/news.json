@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T12:46:51+09:00",
+ "updated": "2026-11-01T18:39:42+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,43 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "36825b6f9946",
+   "title": "울산 남구 폐기물처리업체서 불…검은 연기 공단 하늘 뒤덮어",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRG1WQURnZkQtV3ZwLWFtTmtOZjludGprQmg1ajVpMXNoOVBrX3pLZWlIT205b21uNFhtRnB0NlpoYXNSakhzUmRNSlpzOWNQQ2ttZjZZSS1CbDZnVklxMFlvX0ZWMDlqSERnWlRjc2ZnRW1v?oc=5",
+   "source": "부산일보",
+   "published": "2026-11-01T18:11:07+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-01T18:39:42+09:00"
+  },
+  {
+   "id": "2afb16048cb4",
+   "title": "여수국가산단, 피지컬 AI 도입 논의…산업현장 AX 전환 속도",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzTDBzeUJ0andUQ0xzREVIcUg4U1hQUGlBREZpbFE4Z09YaGFrOURpSURGN21CNkM5ZUltRzRLcktvZHRsRk51d3dlSHpwRTBvcS0yYlhWcVlZd3JxVnozeVFpSlRTU3plSjA3ZdIBcEFVX3lxTFBNdlhyOFFIZXZwSkhvdFV5bGpYU2lzY2hJZUNlYXRKWXE1Y2tMbWpRa0c5b1Bqbk1TNlpZekRVbnFVdW5QQ1FSaG5BWVp0MWtiQzdCQWFiNnEtV01INlNhRko2Uk5LM3pOMUU5QUpWbHU?oc=5",
+   "source": "남도일보",
+   "published": "2026-11-01T14:18:30+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-01T18:39:42+09:00"
+  },
+  {
+   "id": "b75402f27323",
+   "title": "여수시, 피지컬 AI 실증 제안 설명회 개최… 국가산단 AX 선도모델 모색 > 뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBESTZQTWd5UGRVMThta3BYM2xweXVUY0RFTW9CM3dTdWtqTXB3VlVEUlhkeW9tRWxPT1Y0YWhoVWI0OHJj?oc=5",
+   "source": "더코리아",
+   "published": "2026-11-01T00:39:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-01T18:39:42+09:00"
+  },
   {
    "id": "4283edaf5d9b",
    "title": "여수시, 테크니션 스쿨 18기 교육생 40명 모집 > 뉴스",

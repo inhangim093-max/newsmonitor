@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:39:42+09:00",
+ "updated": "2026-11-02T07:34:38+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -28,6 +28,30 @@
  ],
  "articles": [
   {
+   "id": "654d7be78e26",
+   "title": "울산 남구 폐기물업체 화재 8시간 여만에 완진",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5cVRfbTlGZ3BrMWdrTEpLcEkwUks3X2RFczZWX2JFS1dTVGotbWl0UWFzVm5TcUdRNVpiYUQwZEQ0Tl9KeGVuLXhQMEVhRXhHSmxBYmV0T0RwemtyeTExazY5dUZGMXA3RnozSHJfdHo1UDY5?oc=5",
+   "source": "부산일보",
+   "published": "2026-11-02T07:04:07+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-02T07:34:38+09:00"
+  },
+  {
+   "id": "101d7ef95ef7",
+   "title": "[사진] 울산 폐기물 공장서 불",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tSmk3T3NBTkNZVTdEQWh2Wk9wUTBESHVuZlI0MzZjQmxPVTBJeWxVRTFSTkhwQ1Awb0VKZW51SU9pakNRNXVQcTVyNVRFTEJmWXBPcXhxemliWEhTMnNPN2tB?oc=5",
+   "source": "미주중앙일보",
+   "published": "2026-11-01T23:16:00+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-02T07:34:38+09:00"
+  },
+  {
    "id": "36825b6f9946",
    "title": "울산 남구 폐기물처리업체서 불…검은 연기 공단 하늘 뒤덮어",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRG1WQURnZkQtV3ZwLWFtTmtOZjludGprQmg1ajVpMXNoOVBrX3pLZWlIT205b21uNFhtRnB0NlpoYXNSakhzUmRNSlpzOWNQQ2ttZjZZSS1CbDZnVklxMFlvX0ZWMDlqSERnWlRjc2ZnRW1v?oc=5",
@@ -38,6 +62,19 @@
     "울산 사업장폐기물"
    ],
    "collected": "2026-11-01T18:39:42+09:00"
+  },
+  {
+   "id": "1bdf15736198",
+   "title": "여수국가산단 피지컬 AI 도입 모색…제조현장 실증 방안 논의",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aZUVobTZUTHBQNWRFQXZtRk1rdEMtTHZlbnhKcmpDVU9YVzExeFJWUWJJWVVWVGNiWTM0ZzBYZFozckhLVEFzWk1YTEZLN2tMaTFKUg?oc=5",
+   "source": "노컷뉴스",
+   "published": "2026-11-01T18:03:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-02T07:34:38+09:00"
   },
   {
    "id": "2afb16048cb4",

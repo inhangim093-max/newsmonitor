@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:57:21+09:00",
+ "updated": "2026-11-03T07:39:09+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -28,6 +28,19 @@
  ],
  "articles": [
   {
+   "id": "0d21ec24102e",
+   "title": "여수국가산단 정말화학 기반 반도체 클러스터와 적극 연계한다",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqTXFWM3pFWEVDck9DZG9ZTlVxa29Db0M0MjJJcjNmUG9uUERGM2k4eWFZYmd6U2F6WmdLcmZuWXJUWGt0bk1CMTFCRHdleW1EVGVfR2hBdzFOQkpaZExVYXJKc016Y1Y1MThYbS10aw?oc=5",
+   "source": "진일보 | 전남일보",
+   "published": "2026-11-03T04:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-03T07:39:09+09:00"
+  },
+  {
    "id": "a9914c3a8467",
    "title": "광주 반도체 산업 육성, 여수산단 미래 성장동력으로 연결해야",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ybk9YOEhNNjVnZEVCVGt1aURhbHlvSXhXMmZqTDRRX0JQTEpDVGx6VEJzNnRpbDN1UF84aVR0SWZTN2g5TmJ6RXFpVkQ?oc=5",
@@ -38,6 +51,19 @@
     "여수국가산단"
    ],
    "collected": "2026-11-02T18:57:21+09:00"
+  },
+  {
+   "id": "08f369d264e0",
+   "title": "여수국가산단, 반도체 화학소재 공급망 확대 추진",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBU2wxd0xVZGl1Wk9CbG9RMUR2aXE4Z1JYeDViWm5zQzhZbUkxMmNNVlZZM2IxY3RybFBLYU9ZMHFJbF9TZEVDeWtXVERDbW1teHpFdw?oc=5",
+   "source": "전남인터넷신문",
+   "published": "2026-11-02T18:00:32+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-03T07:39:09+09:00"
   },
   {
    "id": "8ddb3bdc7045",
@@ -112,6 +138,18 @@
     "여수국가산단"
    ],
    "collected": "2026-11-02T18:57:21+09:00"
+  },
+  {
+   "id": "dff600ee0816",
+   "title": "고사 위기 몰린 여수산단, 반도체 소재산업으로 돌파구 찾기 골몰",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZM3JqV05FNGU4cW9OejFwX1A0ZkpDdGctellCQkN0MUc3aTM5aUJJNkFRQ0VVZ0lka0tua1JKUGhUUHFxamRUMkxjMXVHNm90OERoVmpaTVp5QkROb20xcmVSLXl3eFp6Wlpz0gFvQVVfeXFMUEtucndpLXoxbWUxYzJ1Q1Q3SzdSc1hzdWo0d1BKMXk0WUtIejZNUFRvSHZ2N3laNXYxTTdmQlhSZlBjTU1sRzFORkVNR2xFQnNQamRXeEwtQ0VVeEljWTBXdklWakE3VVRYNEM3cEFV?oc=5",
+   "source": "남도방송",
+   "published": "2026-11-02T14:10:53+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-03T07:39:09+09:00"
   },
   {
    "id": "987950276797",
@@ -198,6 +236,30 @@
     "울산 사업장폐기물"
    ],
    "collected": "2026-11-02T12:50:58+09:00"
+  },
+  {
+   "id": "b15c0e28a91a",
+   "title": "울산 남구 코엔텍 화재, 밤샘 진화 끝에 8시간 22분 만에 완진",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mY3QxNGpZakt3c1lyMDR2a0JOU3RPaFNjcm5qeF9xV0RJWUJMV1RRbTBYVEIzV3pQZEFwSDc3d05pRFh5MjJySlZESzh4eC1PV01yeHNYTUszdnVqVGdkT0xHY2kwdw?oc=5",
+   "source": "잉크뉴스",
+   "published": "2026-11-02T10:29:34+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-03T07:39:09+09:00"
+  },
+  {
+   "id": "52a0c01c72f6",
+   "title": "온산국가산단 주변 주민 건강검진 지원 추진…울산시의회 조례 심사 주목",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LeG43Z0xDa3RqMkw1dXpKdXpnNE1lMWdQUkw1MmRURURiUGFBeTBRYzJ1dE5Ha1VOZVpFS1F3eUpseHNUemtKUG0ycWxCSHlkbWd6Vm00TnlTc24xaTFSWkIzSkJDZw?oc=5",
+   "source": "잉크뉴스",
+   "published": "2026-11-02T09:50:53+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-03T07:39:09+09:00"
   },
   {
    "id": "48f2332b3c62",

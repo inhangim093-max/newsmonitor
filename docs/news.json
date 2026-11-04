@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:40:10+09:00",
+ "updated": "2026-11-04T12:48:34+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,45 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "19d3292a2814",
+   "title": "[단독]여수국가산단, AI 입고 친환경 미래산업으로 대전환…1,354억 원 승부수",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45aGcyVGl4d2d3VEtfeHBSa09jcXpqVzlmQ3dqMS03bjNCTDA4OXpMbjJuTUpDUWFWT1ZpdUxlM2hQMk5DemU5bkVidzBZTVNoNTU3TjJtV1hBYi12YXZfSlpzT1U0dll5?oc=5",
+   "source": "CBC뉴스",
+   "published": "2026-11-04T11:40:55+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-04T12:48:34+09:00"
+  },
+  {
+   "id": "6e7010dff2d8",
+   "title": "여수국가산단, 인공지능 접목한 고부가·친환경 산업으로 전환한다",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OaEZfWFdnaUZSdFEyZVFsRGhKTEdLaUhOOWhvR0xuZVFMWVFySFhmM01VNUFKZnhDZWk3TGhjTnRmbnBjLWhYV0ZscU83S2pJSnNOdzNKM19NenBaZVB5VFpoTTBsU3ZCWHc?oc=5",
+   "source": "전남인뉴스",
+   "published": "2026-11-04T11:32:21+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-04T12:48:34+09:00"
+  },
+  {
+   "id": "5a4d7bab14b6",
+   "title": "여수국가산단 화재·폭발 예방, 출근길부터 안전수칙 실천 강조",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oRjVVc0ROUGYxWjdGWU9wdkd0SHVWeTg4ZHR2RVpkQTNmYXFkR1RqZzNfVi1BMFZ6UnV0ZzBjTnB1LVdPbE9tZVp2Y3ZXX0ZsQkVVd0lGODMxQ1p6R2NsaXlJVjFTand3dV9MYTdmVUQ?oc=5",
+   "source": "안전신문",
+   "published": "2026-11-04T09:51:33+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-04T12:48:34+09:00"
+  },
   {
    "id": "c42032f4ca7e",
    "title": "석유화학 위기 여수산단, 반도체 소재산업서 새 활로 찾아야",
@@ -120,7 +159,8 @@
    "published": "2026-11-03T12:44:42+09:00",
    "summary": "",
    "keywords": [
-    "여수국가산업단지"
+    "여수국가산업단지",
+    "여수국가산단"
    ],
    "collected": "2026-11-04T07:40:10+09:00"
   },

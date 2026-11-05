@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:56:50+09:00",
+ "updated": "2026-11-06T07:46:04+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,55 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "88e936431e8f",
+   "title": "울산 산업시설 잇단 화재…공장 등 1만여동 실사 추진",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NeGdTTlNmQk84THRhOWVIQWhfMW1hb2ozTnpVV3FyVlgtRUQtdVJUMkVPT2VuV0pudEdJbGczbkFfMVZZXzYwbEpSSzJiVjVOeVlQd2hPMS1EZFJvUl9tTk9aZnB1ZG1RZXh1Wg?oc=5",
+   "source": "경상일보",
+   "published": "2026-11-06T00:00:02+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단",
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-06T07:46:04+09:00"
+  },
+  {
+   "id": "9bdee2fbe54b",
+   "title": "지역 산업시설 잇단 화재에 위험요소 철저 확인 사고 막는다",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKVjNyd0xER3NsbmlXZmtVZ01FV2JGTFlNTjZMd3hhSFo3a0s1U3ZEV2paZ1Zsc1NyR2xOMFd1WEJlbzhzSlZTbUR6bzIzTlhiaHpvZEgyZzVLSUJzN3hfSHducG5lXzh0WUtKRnhQOHZKUdIBckFVX3lxTFBKVjNyd0xER3NsbmlXZmtVZ01FV2JGTFlNTjZMd3hhSFo3a0s1U3ZEV2paZ1Zsc1NyR2xOMFd1WEJlbzhzSlZTbUR6bzIzTlhiaHpvZEgyZzVLSUJzN3hfSHducG5lXzh0WUtKRnhQOHZKUQ?oc=5",
+   "source": "울산신문",
+   "published": "2026-11-05T21:52:57+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-06T07:46:04+09:00"
+  },
+  {
+   "id": "e1fcce8ec064",
+   "title": "울산시, 산업시설 화재·폭발 위험 ‘원천봉쇄’",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RSmJuUEItZ0lrVnBhWVlyZDBMR1l3eGVtQU9HdzNxakFERE5aNkNEOEllNjhjR0Q2aXRiTy1XN0VmZm9XbzJ4bWJYZ3FzaHVZNnNqQjRkemNhc3hVZG54OWdfaERPQQ?oc=5",
+   "source": "울산제일일보",
+   "published": "2026-11-05T20:59:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-06T07:46:04+09:00"
+  },
+  {
+   "id": "011073f2b5c4",
+   "title": "[사설] 울산 산단 화재 점검, ‘무관용’만이 악순환 끊는다",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wemhOWGtidUx5U29VdFZkMThMcUt6blZtMkhGLTRBWm1yZlo0M3RuNVNMdVc3OEV0d1ZNTUxhOHNXbGxYYWFtZXYwc3JtZVFHLUxadmxwblQ3NEJBSWZRSzg3c3FGX3JfSzRfcHBn0gFuQVVfeXFMTjB6aE5Ya2J1THlTb1V0VmQxOExxS3puVm0ySEYtNEFabXJmWjQzdG41U0x1Vzc4RXR3Vk1NTGE4c1dsbFhhYW1ldjBzcm1lUUctTFp2bHBuVDc0QkFJZlFLODdzcUZfcl9LNF9wcGc?oc=5",
+   "source": "울산매일 - 울산최초, 최고의 조간신문",
+   "published": "2026-11-05T19:02:35+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-06T07:46:04+09:00"
+  },
   {
    "id": "a4b7bc998c69",
    "title": "산업시설 화재 잇따르자…울산시, 위험물 관리 고삐",

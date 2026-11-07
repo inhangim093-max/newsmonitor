@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:46:00+09:00",
+ "updated": "2026-11-07T18:50:37+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,18 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "1e2b0fc777a6",
+   "title": "전남광주소방, 제주 암모니아 사고 계기 시민 대피 3대 요령 안내",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxYXl0UXNZVDVHZzVrZGtUSG5Hb1RKWjBBNUxlM1hTM2FLSXNrbGdRUDNoMU80UGx2SzZRcldVQ3FpSlBSa0lsblZRRFdqMDkxSFBuNHVBWkF5bXpINmFETVhUNkdrTzZEM3RweEtaT0vSAXBBVV95cUxQMWF5dFFzWVQ1R2c1a2RrVEhuR29USlowQTVMZTNYUzNhS0lza2xnUVAzaDFPNFBsdks2UXJXVUNxaUpQUmtJbG5WUURXajA5MUhQbjR1QVpBeW16SDZhRE1YVDZHa082RDN0cHhLWk9L?oc=5",
+   "source": "남도일보",
+   "published": "2026-11-07T09:30:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-07T18:50:37+09:00"
+  },
   {
    "id": "569b6fbc94ee",
    "title": "강문성 의원 “여수산단 전환·수산산업 육성 시급”",
@@ -679,6 +691,19 @@
     "울산 사업장폐기물"
    ],
    "collected": "2026-11-03T12:47:07+09:00"
+  },
+  {
+   "id": "ba96b374b10e",
+   "title": "여수국가산단, 화학산업 기반 반도체 소부장 공급거점으로",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83dFc1bjhPclI5c1N4eHBfNmFPS3VSQWpaQVd4NE1na3k3MzZLQmpJS0RaV2syYkpQdnlJZ2JSZWhoejBGeXg0cndWRy1KNTRBanBnbDdmQ0k2eDl1bTRXcmlhUXZZcGRlNGc?oc=5",
+   "source": "굿모닝투데이",
+   "published": "2026-11-03T07:19:12+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-07T18:50:37+09:00"
   },
   {
    "id": "9ed9bddfb870",

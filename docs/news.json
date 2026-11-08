@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:17:00+09:00",
+ "updated": "2026-11-08T19:04:03+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -86,6 +86,18 @@
     "여수국가산단"
    ],
    "collected": "2026-11-06T19:39:47+09:00"
+  },
+  {
+   "id": "8a858d29545a",
+   "title": "울산 산업시설 화재 피해 5년간 598억원…공장·창고 1만여 동 집중 점검",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hOURKY3l6OFVXWEgzNnhmS3k0OG5Wc0pUQm9tSlVyZWFVa0R6Mlctc09lRXR4NFo2ajhUeTlXNWxhXzk1TlpoQ1B1MV85Yy1fLTU5c1ZPQWxjSkhaY2t5UkZXbWFmUQ?oc=5",
+   "source": "잉크뉴스",
+   "published": "2026-11-06T09:55:50+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-08T19:04:03+09:00"
   },
   {
    "id": "cab116678dd3",
@@ -289,7 +301,8 @@
    "published": "2026-11-05T02:54:28+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산업단지"
+    "온산국가산업단지",
+    "울산 사업장폐기물"
    ],
    "collected": "2026-11-05T07:45:23+09:00"
   },

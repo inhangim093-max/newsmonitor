@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:13:47+09:00",
+ "updated": "2026-11-10T04:41:17+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -28,6 +28,30 @@
  ],
  "articles": [
   {
+   "id": "975f609f4b8f",
+   "title": "[울산시의회 행감] 해바라기센터 이전·학성공원 물길복원…울산시 행정 책임 도마",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CaHJhM2NnTlcybno3NHpoUnNGOUN6VmZ4M3Q1NFVPMU1QZ29QVGk0dkZ0T3lIaW5DOU0yOWFlTWlwdy1naHpGejR0eWYwRHROOTQxQTVrRjVxUkVrdTNjVjJ4TjdEeTNlZGRldUFn0gFuQVVfeXFMTUJocmEzY2dOVzJuejc0emhSc0Y5Q3pWZngzdDU0VU8xTVBnb1BUaTR2RnRPeUhpbkM5TTI5YWVNaXB3LWdoekZ6NHR5ZjBEdE45NDFBNWtGNXFSRWt1M2NWMnhON0R5M2VkZGV1QWc?oc=5",
+   "source": "울산매일 - 울산최초, 최고의 조간신문",
+   "published": "2026-11-09T18:18:55+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-10T04:41:17+09:00"
+  },
+  {
+   "id": "a5a44f6e4893",
+   "title": "[울산시의회 행감] 불법폐기물 매립·성암소각장 운영 전환 집중 점검",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdkFXazU1LTFHNkh5RnVZczZHVmsxR2VUME1VOXlqWnBydUhRQTN6cjFKNGZqOGdfaGx1QzJJU1hjNXE3SmthUVk4a1RxX2NrR1VJODBCUmJ5MXhfMkQ0SFU2QTVwOXM5aGfSAW5BVV95cUxOZFlxUjMtMnNUSVh0ci1pM09TR3o2S1Z0YXBCckZWei03SmZSbnpxTWRvVlBPV1g2b0VXOXFKVG9CZ2x2VEc2bVB0RVZ0dFJtcFJFbXp1XzYyd3pNYnRyOVJfZHZBOXJYQURVY0xJdw?oc=5",
+   "source": "울산매일 - 울산최초, 최고의 조간신문",
+   "published": "2026-11-09T17:31:40+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-10T04:41:17+09:00"
+  },
+  {
    "id": "c9eb4e339def",
    "title": "[르포] LNG·석유 저장 넘어 벙커링까지…KET, 동북아 에너지 허브 도약 속도",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkanY2SmswVkxlUXcyR0RZcTNjcEpNYVFpSExaa2J1djlxQnhZelhvZE1Dd1FaWllGQnNxUVRWRi02MGZCN2FpNHNNUjFybGI5b2MzVG5sMGHSAVhBVV95cUxQZGp2NkprMFZMZVF3MkdEWXEzY3BKTWFRaUhMWmtidXY5cUJ4WXpYb2RNQ3dRWlpZRkJzcVFUVkYtNjBmQjdhaTRzTVIxcmxiOW9jM1RubDBh?oc=5",
@@ -38,6 +62,18 @@
     "온산국가산업단지"
    ],
    "collected": "2026-11-09T20:13:47+09:00"
+  },
+  {
+   "id": "5fd3b055eba8",
+   "title": "[현장+]\"경쟁 상대는 부산 아닌 세계\"…울산항, 친환경 벙커링 허브로 도약",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45WS05Y2JQVjMweF93YllDNzFxOHZxa3Rkb1NjRXFGWFRqTzRJbWw3QzN2M0tGLS1TNjJIRUxGQndZVW1XTzFjdGRNeDMtZTNCT0NsUXZrb0VnSkxKVG85LXZxQkJxdUNJU1JBN09RNA?oc=5",
+   "source": "비즈니스플러스",
+   "published": "2026-11-09T14:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-10T04:41:17+09:00"
   },
   {
    "id": "947ab49ba90f",
@@ -242,7 +278,8 @@
    "published": "2026-11-05T14:32:00+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산단"
+    "온산국가산단",
+    "울산 사업장폐기물"
    ],
    "collected": "2026-11-05T18:56:50+09:00"
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:53:19+09:00",
+ "updated": "2026-11-09T10:36:26+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -95,7 +95,8 @@
    "published": "2026-11-06T09:55:50+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산업단지"
+    "온산국가산업단지",
+    "울산 사업장폐기물"
    ],
    "collected": "2026-11-08T19:04:03+09:00"
   },
@@ -144,7 +145,8 @@
    "published": "2026-11-05T20:59:00+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산단"
+    "온산국가산단",
+    "울산 사업장폐기물"
    ],
    "collected": "2026-11-06T07:46:04+09:00"
   },
@@ -245,6 +247,18 @@
    "collected": "2026-11-05T18:56:50+09:00"
   },
   {
+   "id": "f7a9186e4106",
+   "title": "울산시, 공장·창고 1만1276동 화재안전 조사…겨울철 예방대책 강화",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nWmxFRXdLVUtCcXBSbTQzTmtfTVdIbXYtaTNUZ3hVcUUycnd5X21CSVJmblp3NWFwLV9jZUJxc3h1dlZ2MUE5UlFlT1BzajRnWEhSNXBJYl92Q1FXRWpteWhGUmhvVjMxbnFHQkVfaFJxZzA?oc=5",
+   "source": "울산저널i",
+   "published": "2026-11-05T13:38:33+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-09T10:36:26+09:00"
+  },
+  {
    "id": "5ff2db544e9b",
    "title": "여수산단 1,354억 원 산업 전환…AI 투자",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YdWJKMURHSUZnaXFkbW5UV09DVXRBbDIycHpvMVpXdi1OWENRZ3l1cnhoMjN6WDZGbWpLVzN1eGtxRGJkMmpxUkUzNXlzV3BYcEVVN1RjaXdQdVJ4TjNOX3EyaTdVcEZnUVoxY1ZB?oc=5",
@@ -277,7 +291,8 @@
    "published": "2026-11-05T10:44:28+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산단"
+    "온산국가산단",
+    "울산 사업장폐기물"
    ],
    "collected": "2026-11-05T18:56:50+09:00"
   },
@@ -817,6 +832,18 @@
    "collected": "2026-11-02T18:57:21+09:00"
   },
   {
+   "id": "b65c4f595226",
+   "title": "울산항만공사, 지역 물류 혁신 유공 국토교통부 장관 표창",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yVHZQcG5LWWZ3b0llanVhRG5VaGNnQU5wSlJXb1hUckFQajlNMzQ3azdJMXlZeTVfakNMSzFGYnZuNTVtQS1UT3hqclA5VVQ3SWEyYW00WFdxTkF5OXJaUUE4djAtbm1kVVZR?oc=5",
+   "source": "물류신문",
+   "published": "2026-11-02T17:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-09T10:36:26+09:00"
+  },
+  {
    "id": "41509a5fe7f4",
    "title": "여수국가산단, 화학산업 넘어 반도체 소재 공급거점으로 확장",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkZ3Y5T25abTZoOTBrRUM5ei1ReUpQeFFpd3RmaTd5ZXJ4bjYwcGkxSUdSendJeVhhYThmQWE5SXVBVlVfbEVpdFZR?oc=5",
@@ -853,6 +880,18 @@
     "여수국가산업단지"
    ],
    "collected": "2026-11-02T18:57:21+09:00"
+  },
+  {
+   "id": "3712bfc6e599",
+   "title": "에쓰오일, 3분기 영업이익 전년比 514% 증가…'국제 유가 상승' 영향",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xUS1GeWZKVG95aEhYNUlzTi1Db2FYd1NfWkRzSGxUak1icUFlempEeDhHVzMzZEFCWF9SMzFEYS1JcDhBcGZXczM2XzV2RHZrTFJSTzdsS3hnQWFGbzZjZy0xdw?oc=5",
+   "source": "조세금융신문",
+   "published": "2026-11-02T15:42:17+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-09T10:36:26+09:00"
   },
   {
    "id": "c80c580fe363",

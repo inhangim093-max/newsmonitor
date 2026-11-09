@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:36:26+09:00",
+ "updated": "2026-11-09T20:13:47+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,30 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "c9eb4e339def",
+   "title": "[르포] LNG·석유 저장 넘어 벙커링까지…KET, 동북아 에너지 허브 도약 속도",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkanY2SmswVkxlUXcyR0RZcTNjcEpNYVFpSExaa2J1djlxQnhZelhvZE1Dd1FaWllGQnNxUVRWRi02MGZCN2FpNHNNUjFybGI5b2MzVG5sMGHSAVhBVV95cUxQZGp2NkprMFZMZVF3MkdEWXEzY3BKTWFRaUhMWmtidXY5cUJ4WXpYb2RNQ3dRWlpZRkJzcVFUVkYtNjBmQjdhaTRzTVIxcmxiOW9jM1RubDBh?oc=5",
+   "source": "아주경제",
+   "published": "2026-11-09T14:17:44+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-09T20:13:47+09:00"
+  },
+  {
+   "id": "947ab49ba90f",
+   "title": "롯데·여천NCC 249만t 멈추는데…에쓰오일, 내년 1월 ‘샤힌’ 180만t 가동",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ySHphWjRBMmVtZWtHeHFGVVpvUG9TT2dxOGc5czNqQkhNNEt4ckZ2akwxcGFHZW5TVk8yc3ZoVml0Y1NCM3RfellCQjhLZW42S1lFYnM5QW55bC00R2dkSHhPdHM5X2c?oc=5",
+   "source": "청년일보",
+   "published": "2026-11-09T10:58:30+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-09T20:13:47+09:00"
+  },
   {
    "id": "1e2b0fc777a6",
    "title": "전남광주소방, 제주 암모니아 사고 계기 시민 대피 3대 요령 안내",
@@ -62,6 +86,18 @@
     "여수국가산업단지"
    ],
    "collected": "2026-11-07T10:46:00+09:00"
+  },
+  {
+   "id": "39cc5596a683",
+   "title": "[이슈앤이슈] 5년간 346건·598억원 피해…울산시, 산업현장 화재 사각지대 줄일 수 있나",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6RDZ0OEFPUTh5WklyeEFjWFpTNE5FeWxoMk9PMzJtN25uc2V3NDdsTUsxR2ZKTlhrQ0tIXzM0TnYya3VyYk5DNnR0OHl5cVNVTDhQYW5UV2HSAVhBVV95cUxQekQ2dDhBT1E4eVpJcnhBY1haUzRORXlsaDJPTzMybTdubnNldzQ3bE1LMUdmSk5Ya0NLSF8zNE52Mmt1cmJOQzZ0dDh5eXFTVUw4UGFuVFdh?oc=5",
+   "source": "아주경제",
+   "published": "2026-11-06T18:33:11+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-09T20:13:47+09:00"
   },
   {
    "id": "69ba0c0d1bdd",
@@ -242,7 +278,8 @@
    "published": "2026-11-05T13:42:47+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산단"
+    "온산국가산단",
+    "울산 사업장폐기물"
    ],
    "collected": "2026-11-05T18:56:50+09:00"
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:55:56+09:00",
+ "updated": "2026-11-11T10:49:37+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,43 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "72858cce61e8",
+   "title": "GS칼텍스 김종은 상무, ‘산업통상자원부 장관 표창’ 수상",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCSWRlUzVKT3VzWklHRG9rVS0tUnN6akhvQk9WS0d6U3JXb1V5RnljX0drNTlwRmZiVEpDY1hjd05DMWwzRzNQQnZYOEZ5Nl91c29FZ1B0WW5od3dNZEVFdHJaU19wY3c?oc=5",
+   "source": "여수신문",
+   "published": "2026-11-11T10:21:10+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-11T10:49:37+09:00"
+  },
+  {
+   "id": "596b20636734",
+   "title": "[샤힌의 습격 ①] 9兆 샤힌 프로젝트 가동 임박···울산 사업재편은 '제자리'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CY0R0dlc5MDZ5SVgtUG45Yzlmdkt4NlYzRjhIZThZd0xiSkhUaGxfQmc2RXdZSDh2cHZwM19PT2VxaWE5cjZaeXpvbTd2UExJWmtSM2VtYXNab1pGYzctSll1QTcwVUxSaWc?oc=5",
+   "source": "서울파이낸스",
+   "published": "2026-11-11T08:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-11T10:49:37+09:00"
+  },
+  {
+   "id": "ca7a49ccbc92",
+   "title": "[시티&로컬] 저출산 정책 돌아본 서울시…난임·육아 지원 확대 外",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iSk5hWlJDa2ZTQkEwLUtrMDlsUk1TSmkweVpzQU5fVEg4QU5rX1RQNXNiaTQzdE1qbnhFZ0pLNC1qWWlMRjRtVGpkQlc5TzV6aUl1VGtPMkkwaVo3ZnNLY2xHMjhmOUk?oc=5",
+   "source": "연합뉴스TV",
+   "published": "2026-11-10T17:13:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-11T10:49:37+09:00"
+  },
   {
    "id": "6d9908f1262c",
    "title": "여수시의회, GS칼텍스 여수공장 현장 방문",

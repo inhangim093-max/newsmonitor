@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:00:14+09:00",
+ "updated": "2026-11-12T11:49:11+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,79 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "0daea9e8ae57",
+   "title": "울산 서울주소방서, 관내 자원순환시설 46개소 대상 긴급 화재예방 대책 추진",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEVOWGMtbnA3Y3Z6Rm8zcE5DNHBOQjhERmlyVmlpWDNpcW55Zm4xM09yZEZTZnZQM29zVlU1bUFYSXlrSTkyamNMemJncUdzU2dudjU2dnFzeHlpZFd6OFIzNWNBc0RIMDVZ?oc=5",
+   "source": "한국사회복지저널",
+   "published": "2026-11-12T11:29:13+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "0f76fc4cd469",
+   "title": "여수시, LG화학 반도체 소재 생산 시설 증설 검토 ‘전폭 환영’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SE5mYUtwOWQ0SEliR2Y3SWV0Qlh4aWdscmZsVVl0VXlSTGdEM0xucVlJX19QeUpQQ091V1JIY3hnX0JpaVhKZEJ3eWtyTWpHWF9xQXFNLWJIVGV2ZmRGamtQYlgweWs?oc=5",
+   "source": "여수신문",
+   "published": "2026-11-12T10:43:33+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "736678556cd7",
+   "title": "5조9907억 울산시 본예산, ‘시민 체감형 민생’으로 이어져야",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rd25udkc1R1A4VERMT0dtQ2VOeHExMWNpWEUwaFJmWjBTSkxUWDVfMjc0a0p1RTNSb3kzY3A3TjFMbl9ZTkhHYXNSckNJYmFhanRHSGFyVXFiWTVKa3VtLXVHUGVZWXo2V000MU53?oc=5",
+   "source": "울산종합일보",
+   "published": "2026-11-12T09:47:25+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "7916a9dee9fd",
+   "title": "여수시, LG화학 반도체 소재 투자 행정지원 추진",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14Tmt6Tzl5TUZiZnRqM1Eza3BSczlUamYwNTNQMkNzQU1fZ3NxanUtakJ2ZUVWdWlzbUFDTFhNeXpvblczczZjTVB3eWZaOHdTYnc1d3BvMDEzYWlwZlBoOGxnRDk?oc=5",
+   "source": "매일일보",
+   "published": "2026-11-12T09:47:05+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "67ed2c016f43",
+   "title": "GS칼텍스 김종은 상무, 여수산단 탄소중립 기여…산업부 장관 표창 수여",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NY2Z4X3UzdEcwVWRGRVF4dzBha3NEUVRyemhXbVBrdW8zbVJWMW9MelZlOU1JWi1kekJiOVVGYWx3WnRRS2RTQnRqSE9XNHJ5TElFcGZvU083b18xZHRkTG9hZnpRcEF5TTZFWnBYXzFOcHdnemdTWg?oc=5",
+   "source": "프라임경제",
+   "published": "2026-11-12T08:55:15+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "87911623638b",
+   "title": "“석유화학 넘어 반도체 첨단소재로”…여수시, LG화학 생산시설 증설 검토 환영",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04aFoyck1WSWF0QlE0OGVQdS0xeUw2NXdGcFc4WExyQzFMSTZiOFNMR3RJWm5QMjhTUlI1ek9NRGxjcE1fWFlxT1ZYeWNrclh0WmRFTQ?oc=5",
+   "source": "시사의창",
+   "published": "2026-11-12T08:14:38+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
+  },
   {
    "id": "c61eaefee421",
    "title": "S-OIL, 서울·울산서 벤더설명회",
@@ -88,6 +161,18 @@
    "collected": "2026-11-11T19:37:17+09:00"
   },
   {
+   "id": "f86ba44ce800",
+   "title": "울산시 내년 예산안 5조9,907억원…민생 지원 늘리고 미래산업 키운다",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGQ2ZKb1pkaTZKb2cydWdBMUluY19hUXVUcTRVSEdSN3VwemE4cGtPYld2cnV2X3U3ejZ4RkFZajlnOXlXcUV0amFTTGJBdkdSMWliR3V2TWRxUEZNZXZpejVGZThsdw?oc=5",
+   "source": "잉크뉴스",
+   "published": "2026-11-11T14:37:53+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
    "id": "9326fd46fb3d",
    "title": "울산시 내년 예산안 5조 9907억 편성…시민 편의·미래 산업 중점",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12OWdNOFpHdmdQRi1hOUVIOHJ6V3BOUC1mbjFtNk82bVk2YkFvWnFmOXVFcVNEOWQyNUxweXY0dU1SR1RscTd2SEpIek5RRjMwWkE?oc=5",
@@ -146,6 +231,18 @@
     "온산국가산단"
    ],
    "collected": "2026-11-11T19:37:17+09:00"
+  },
+  {
+   "id": "500f463ec541",
+   "title": "울산시, 내년 예산 5조9907억원 편성… 민생 안정·미래산업 집중",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNbng5eVZ4eDg1XzJPWVNzc3Z1WW1SYk5NeEJYcDJ2bTV6TmxOUTZBb3lsUllyd19ycUtINFhfWm16OHFQQ1Ria3VtaUQ4WXNxRkNBOWdQcVB4WWkyYWswY2xqQ3k4VXNwSEs5VlhR?oc=5",
+   "source": "울산종합일보",
+   "published": "2026-11-11T10:50:19+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-12T11:49:11+09:00"
   },
   {
    "id": "72858cce61e8",

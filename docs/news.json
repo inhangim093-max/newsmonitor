@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:49:11+09:00",
+ "updated": "2026-11-12T19:50:09+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -28,6 +28,42 @@
  ],
  "articles": [
   {
+   "id": "4a7920347b67",
+   "title": "[뉴스&쟁점] 국토부, 주택공급·병목 개선 강조…울산 온산선 폐선 해법은",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0SXlpb1dOeFZJSjBad0t1OC1WUXhoUFZ1bG9MblBZUkVIbE5qUVJUTGIzcmxPSGU4S3hUQTJiRFdOMVBtVjNyblFScDhFdHdtX1dPb0xNNENZcXV1Sl9FM0JLUXA1T3BRQUHSAW5BVV95cUxQellzeDVUbDduZzhpTDk1N1ctRm55bDJtSTBvRGl0TnA3MUg5OUVuOUpXcVBON0RWUVJsQ3ZRVmJXdDhwRlR6LWNjVnRUcnZacUU2QTh3UmF0TlRYcFRtdXo1ZDduT1EwU1hpdTItZw?oc=5",
+   "source": "울산매일 - 울산최초, 최고의 조간신문",
+   "published": "2026-11-12T18:56:21+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-12T19:50:09+09:00"
+  },
+  {
+   "id": "9e492cb57523",
+   "title": "울산 다운동 LH 현장 레미콘 ‘미승인 골재’ 의혹…경찰 넉 달째 수사",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FYlNwRUNSMS1zMUR1eW83cXdoa2hEd1JlZnJIazVaMnpxd2JKQXc2bTY3NmktRnc2ZnFfTHpDcV9hYUNSbEh5NHo4bFpkTzZlQnRpU0szSllMbTFyVmNuSk83TVJOeDBSMXYzUkNodm3SAXRBVV95cUxQS0tmdENpbzZfMjRGWHBick5TMzNFbmc2Q2diREQyQlNtclgyQ01rUTZoaFVBSGpNaVNBTkZpNEx2N2NUX3FQYVF0ZGY1RUV1dThsVlUxVVpiM2hGb3lXOTZjVGhGVHluT01wU1NMMExHekVvSg?oc=5",
+   "source": "주간한국",
+   "published": "2026-11-12T16:42:36+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-12T19:50:09+09:00"
+  },
+  {
+   "id": "f40633b16210",
+   "title": "여수산단의 새 성장 동력, 반도체 소재…'투자 유치' 관건",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fc0h3Z2tzd1M2eFdaYVhnVXFkV0l2OS1jMEdiQVFqZXJscUN5RFRJaGZPSEh2RDJleWNKeUxjQ09aWVQ5Ty14R3loMUM4THRVV1VQR3ljdUVtbGd1QnNESHFYRUtCNlFSNGtMbXZTb0F2SjUtb2fSAXZBVV95cUxOX3NId2drc3dTNnhXWmFYZ1VxZFdJdjktYzBHYkFRamVybHFDeURUSWhmT0hIdkQyZXljSnlMY0NPWllUOU8teEd5aDFDOEx0VVdVUEd5Y3VFbWxndUJzREhxWEVLQjZRUjRrTG12U29Bdko1LW9n?oc=5",
+   "source": "LG헬로비전",
+   "published": "2026-11-12T16:32:44+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-12T19:50:09+09:00"
+  },
+  {
    "id": "0daea9e8ae57",
    "title": "울산 서울주소방서, 관내 자원순환시설 46개소 대상 긴급 화재예방 대책 추진",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEVOWGMtbnA3Y3Z6Rm8zcE5DNHBOQjhERmlyVmlpWDNpcW55Zm4xM09yZEZTZnZQM29zVlU1bUFYSXlrSTkyamNMemJncUdzU2dudjU2dnFzeHlpZFd6OFIzNWNBc0RIMDVZ?oc=5",
@@ -50,6 +86,18 @@
     "여수국가산단"
    ],
    "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "9cf824bc6c5d",
+   "title": "울산 서울주소방서, 자원순환시설 46곳 긴급 화재예방 점검",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82TWdFQkZyUkxXRXBBRWdBSEdUT3lDZEdjb2YtQzZhSkVZMTc2d1FlempvdW1lNExZWWtjTXpDX0dwZXUzWHRmc2hVdm11RGNzZzl5NU1sUjZYSEhad1hNbXg0Q3lSRzV1ZElGYzU5NlU?oc=5",
+   "source": "울산종합일보",
+   "published": "2026-11-12T09:59:21+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-12T19:50:09+09:00"
   },
   {
    "id": "736678556cd7",
@@ -111,6 +159,18 @@
     "온산국가산업단지"
    ],
    "collected": "2026-11-12T02:00:14+09:00"
+  },
+  {
+   "id": "1470805bd16e",
+   "title": "LG화학, 여수공장 반도체 소재 증설 검토… 석유화학 재편 신호탄 기대",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCVVVQTlFWRlIxODdXaHgxZWh1Ql9jQ0xzeGpCbHc5RFZsY0l3VkFqZ0VaVE82azBlRjkxM0ljQ25oR0pReGcyMm1sbk5FUHB3NV9oRHlvTkJSZEc1M0dkNzN1M01hN2M2TVc5a1JxSdIBb0FVX3lxTFBCVVVQTlFWRlIxODdXaHgxZWh1Ql9jQ0xzeGpCbHc5RFZsY0l3VkFqZ0VaVE82azBlRjkxM0ljQ25oR0pReGcyMm1sbk5FUHB3NV9oRHlvTkJSZEc1M0dkNzN1M01hN2M2TVc5a1JxSQ?oc=5",
+   "source": "남도방송",
+   "published": "2026-11-11T16:14:56+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-12T19:50:09+09:00"
   },
   {
    "id": "8650e294bb9c",

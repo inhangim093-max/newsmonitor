@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:46:39+09:00",
+ "updated": "2026-11-14T02:05:19+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -47,7 +47,8 @@
    "published": "2026-11-13T02:46:56+09:00",
    "summary": "",
    "keywords": [
-    "온산국가산단"
+    "온산국가산단",
+    "울산 사업장폐기물"
    ],
    "collected": "2026-11-13T11:30:50+09:00"
   },
@@ -110,6 +111,18 @@
     "울산 사업장폐기물"
    ],
    "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "6823fed8d2ee",
+   "title": "울산시 서울주소방서, 산업시설 긴급 화재예방대책 추진",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tZWFuc3RvOUVfT0J6Z2lMUmlBeEpDVDBiYlhxWVJfRl93NlRIdnlWZEEtUTV2OER2ZG54cUsxZ09mUlFoY1RIanEzNGZMY21HSEhWTVFERHpRV2ViQ2NwNWlEaHcta0N1V2tScDJB?oc=5",
+   "source": "시민행정신문",
+   "published": "2026-11-12T10:50:04+09:00",
+   "summary": "",
+   "keywords": [
+    "울산 사업장폐기물"
+   ],
+   "collected": "2026-11-14T02:05:19+09:00"
   },
   {
    "id": "0f76fc4cd469",

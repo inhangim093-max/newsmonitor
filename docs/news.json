@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:29:37+09:00",
+ "updated": "2026-11-13T11:30:50+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,30 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "71587c012262",
+   "title": "반도체 씻고 깎는 화학소재… 여수산단 새 먹거리로 부상",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FNVhGSEN4aFJ6azY1TXpQSXlPM0wxTGg5WVBCbTlqQVZRVnI3cjQ5WE5sY0UzTGFNT0hUd29mZlBoWFhwdjZQak5tV1dpSERfWmw1N01vNkplU0NhOGlFa3ZqbnBkUdIBZkFVX3lxTE5FNVhGSEN4aFJ6azY1TXpQSXlPM0wxTGg5WVBCbTlqQVZRVnI3cjQ5WE5sY0UzTGFNT0hUd29mZlBoWFhwdjZQak5tV1dpSERfWmw1N01vNkplU0NhOGlFa3ZqbnBkUQ?oc=5",
+   "source": "동아일보",
+   "published": "2026-11-13T04:30:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-13T11:30:50+09:00"
+  },
+  {
+   "id": "77195a2cfdb1",
+   "title": "산업시설 화재 잇따르자…서울주소방서, 자원순환시설 46곳 긴급 점검",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85RVU1RXdzYmtsUEJ2LUN3aGplYVUwNGZnaktSRV9naDlDd2hrRE4xeWtDUjdsRTdlai05dHBwdHBlTldEM05xUnZTeE9IMHlneGMwQTZvaEQtX0ZlRzVoSk5tNFVmbkFzRjZjYnZB?oc=5",
+   "source": "투어코리아",
+   "published": "2026-11-13T02:46:56+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-13T11:30:50+09:00"
+  },
   {
    "id": "4a7920347b67",
    "title": "[뉴스&쟁점] 국토부, 주택공급·병목 개선 강조…울산 온산선 폐선 해법은",

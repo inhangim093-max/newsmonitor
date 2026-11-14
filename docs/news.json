@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:12:40+09:00",
+ "updated": "2026-11-14T19:00:25+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,18 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "27b98993a597",
+   "title": "[샤힌의 습격 ④] 국내 석화 산업 '지각변동'···SK지오센트릭·대한유화와 합의 '변수'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1c3BZaGY0Ny1vbGJrbmFmNXdLcERhUXdwTUFFTVlIRHhQYmJYYWgxVENQdnk0TXROYkQ3bkUta3lvWllTcFlZM0twUFpJVjRIRkhsTklhVVMyVUxlUlJHRUtxSUtheGdxcWc?oc=5",
+   "source": "서울파이낸스",
+   "published": "2026-11-14T12:00:00+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-14T19:00:25+09:00"
+  },
   {
    "id": "71587c012262",
    "title": "반도체 씻고 깎는 화학소재… 여수산단 새 먹거리로 부상",
@@ -196,6 +208,18 @@
     "여수국가산업단지"
    ],
    "collected": "2026-11-12T11:49:11+09:00"
+  },
+  {
+   "id": "5627f1cbd6fe",
+   "title": "쿠키뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TbDlXYko4TG9wUjlMeU81ZFZUVGpobFNUUW5nZVNyTjBfTDhJcUlpTjJZdUZSNWNhNXdJdHBqY2RIMXd2QktIaHhWamZzbVpfWFdDbDc3R2xGbDRfd3Z6bktBb3Q?oc=5",
+   "source": "쿠키뉴스",
+   "published": "2026-11-11T17:00:26+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-14T19:00:25+09:00"
   },
   {
    "id": "c61eaefee421",

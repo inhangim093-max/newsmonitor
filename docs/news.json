@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:25:11+09:00",
+ "updated": "2026-11-17T20:38:39+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,30 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "df2eee67fd8b",
+   "title": "송하진 여수시의원 “여수산단 6년 새 15명 숨졌는데… 시는 뭘 했나”",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wMWZjLU9qZ0E4UEtpbloweGJBREZaLVJlX2VCM0JKb2wtTWVkbUJaT2RReEl2ZDg1dGpIUmtFc2VXblNMRXIyODNoSXM?oc=5",
+   "source": "시사일보",
+   "published": "2026-11-17T18:55:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-17T20:38:39+09:00"
+  },
+  {
+   "id": "47f35d6c00e7",
+   "title": "박숙희 여수시의원, 전국 최초 ‘인공지능 데이터센터 유치 지원 조례안’ 본회의 통과",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsREFhRDM4VEtGQk5JeERraUx1bm9lVDFSTWZtWlZMZjA3cHdrS3NsT2J2YVRqSWtBck1EZGVfNFdhOUZvWWVUSl9Xcno?oc=5",
+   "source": "시사일보",
+   "published": "2026-11-17T17:56:00+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-17T20:38:39+09:00"
+  },
   {
    "id": "6c0b86e5d62b",
    "title": "여수산단 산업현장 지켜온 기업인 3명, 올해 ‘자랑스러운 기업인’ 선정",

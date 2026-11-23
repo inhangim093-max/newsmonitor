@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:28:26+09:00",
+ "updated": "2026-11-23T21:06:14+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,56 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "55d37eaae3cb",
+   "title": "샤힌 준공 D-2…석화 구조조정 '연내 마무리' 주문에도 과제 산적",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tXzh0MHpOMV9EMEgtd19OV20tQzJGSzdDMURSdVJmdk5BalBNbXdvVGdVNGhNWU1kTnd6ZWE3NkJUU3hoeGY5Q0FiRHhfOVlXZnhRNF9qSDc4bXRTa00tNk5SYU1lUkppeHRsYXFPRlZhSHQ10gF0QVVfeXFMT21fOHQwek4xX0QwSC13X05XbS1DMkZLN0MxRFJ1UmZ2TkFqUE1td29UZ1U0aE1ZTWROd3plYTc2QlRTeGh4ZjlDQWJEeF85WVdmeFE0X2pINzhtdFNrTS02TlJhTWVSSml4dGxhcU9GVmFIdDU?oc=5",
+   "source": "포인트데일리",
+   "published": "2026-11-23T16:06:28+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-23T21:06:14+09:00"
+  },
+  {
+   "id": "8b6594a605e3",
+   "title": "김정관 장관 \"올해 안에 석유·화학 재편 논의 매듭지어야\" 촉구",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sUmFyZUs5LU9HRTRudlJ2UW1ISUNROFNMUEdRSV9McUFMNEpDTWkxNjhScU5UVmlTdjd2NTdEa3VqVVliQy1iOG9GVzBlU0U1S21BREUwaU9YZw?oc=5",
+   "source": "한국경제",
+   "published": "2026-11-23T14:07:36+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-23T21:06:14+09:00"
+  },
+  {
+   "id": "8e9c2bd1cd06",
+   "title": "[기획-울산 국가산단 60년의 그늘] 916㎞ 노후배관…산업수도 땅 밑에 쌓인 위험",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRFNzTFcySG1pbFZITUdSVjdfdXRrNUFUSktzdHBkXzZ6QjlvdjZqWndXdGdOZE0zYzc1Qmg4OGRjN0JNY3FSZ2pOVjVmQ1hqTGRtMVNnZXdCUQ?oc=5",
+   "source": "아주경제",
+   "published": "2026-11-23T12:08:21+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-23T21:06:14+09:00"
+  },
+  {
+   "id": "cd5fbf3bef36",
+   "title": "한문선 여수상의 회장, “여수산단 반도체 소재 공장 인허가에 패스트트랙 필요”",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hOHFzWkpjN0I2RWlIVUlENTl5ekxRZUVhT3FYSGUwZ3RVUzI2YldDak40YU9abndCSjhLYnZfNm5CRmdIcGlZMzBhLXV5ZW1jYzFMZFlnQ0U0bkFvY1lGQ0Zhc0dCYVXSAWpBVV95cUxOY3UwNHlOenhIaDNhQS1aVHpHZjFLSnE4TWt4Tk1OMVRvdmlWMXNPbnFCc29nN2xlWkhtQzFuT1RjeVNMUE9US2Zoc201dkEzT1p6STV3RS1teHVZYTA2ZmtwdjVjTHJ1WHZn?oc=5",
+   "source": "센트럴경제",
+   "published": "2026-11-23T11:15:54+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단",
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-23T21:06:14+09:00"
+  },
   {
    "id": "6b66c8186fc0",
    "title": "9조2580억 '샤힌' 가동 초읽기…대산·여수 석화 감축 72% 상쇄되나",
@@ -350,7 +400,8 @@
    "published": "2026-11-18T14:49:00+09:00",
    "summary": "",
    "keywords": [
-    "여수국가산업단지"
+    "여수국가산업단지",
+    "여수국가산단"
    ],
    "collected": "2026-11-18T20:25:51+09:00"
   },

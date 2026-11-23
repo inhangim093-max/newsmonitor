@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:06:14+09:00",
+ "updated": "2026-11-24T06:06:53+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -27,6 +27,30 @@
   "여수 적량지구"
  ],
  "articles": [
+  {
+   "id": "e0888a834728",
+   "title": "여수의 미래 걸린 2027년 국비 확보전…석유화학 산업 전환부터 해양관광·의료 인프라까지",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETTh6UTlvc09jS2R6M2JGb3JPYWptWjRXcFVTSnNEQ3ZCR2FJSEpYZ2RKSlBhVkVuRlU3akFwcWlCT3RvbnRyLTloTUFtRlVNcU9hYzdjZUlIWHpPeEQtVA?oc=5",
+   "source": "제이앤엠뉴스",
+   "published": "2026-11-24T03:02:12+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산업단지"
+   ],
+   "collected": "2026-11-24T06:06:53+09:00"
+  },
+  {
+   "id": "6c4e938291f2",
+   "title": "에쓰오일 샤힌 준공 임박…‘원료 안정’ vs ‘감축 부담’",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWVd5R3ltSXl6eHJVTVBHWXBuLUVkaEVxVkY2dUZqS2Qyc2tacUM5Q21IbzFqUThwNVNqSmNRenFGT1lJdXJ4dkFDaE5yaGRwaEdkSUx6MTdibkhXRlNPUmc2cUE?oc=5",
+   "source": "서울경제TV",
+   "published": "2026-11-23T17:58:37+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산업단지"
+   ],
+   "collected": "2026-11-24T06:06:53+09:00"
+  },
   {
    "id": "55d37eaae3cb",
    "title": "샤힌 준공 D-2…석화 구조조정 '연내 마무리' 주문에도 과제 산적",
@@ -416,6 +440,18 @@
     "여수국가산단"
    ],
    "collected": "2026-11-18T20:25:51+09:00"
+  },
+  {
+   "id": "8bd2ac888374",
+   "title": "송하진 여수시의원, 여수산단 6년 새 15명 사망…“여수시는 뭘 했나”",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QdFk4b0FZZGZlZ1dpeFFGdnBGWHhvM0wzQTdOV1IwSGdXUTloZ21jbHFDSEU2RVdXX1RaVldLTzNOcTFhaVdDYXZMN0NnQTZqenQ1VVNSdnI3akFDRVZiQQ?oc=5",
+   "source": "NSP통신",
+   "published": "2026-11-18T11:23:46+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-24T06:06:53+09:00"
   },
   {
    "id": "e6d4a8ec6cfc",

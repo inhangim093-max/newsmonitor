@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T20:32:58+09:00",
+ "updated": "2026-11-29T02:27:26+09:00",
  "groups": [
   {
    "name": "울산 · 온산",
@@ -316,6 +316,18 @@
     "온산국가산업단지"
    ],
    "collected": "2026-11-25T21:28:04+09:00"
+  },
+  {
+   "id": "cff61c365dab",
+   "title": "에쓰오일 ‘샤힌 프로젝트’ 완공… 미래 에너지 시장 이끈다",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91VURZTWctMl9MY3A5dF9rQ3U2T3hnOGNjZlJnN1hSLW5XRkhZZElUZVNHY09iOUF2UWJ6Umo4SkYtR2ZlUEI5M1g0ckpwTi1OQTAyM0FNZ1hJQzdiOGdHZ2xqNDBGcEFFNHNucEZqeGFWMm14UmRUYWZTYw?oc=5",
+   "source": "서울신문",
+   "published": "2026-11-25T17:56:15+09:00",
+   "summary": "",
+   "keywords": [
+    "온산국가산단"
+   ],
+   "collected": "2026-11-29T02:27:26+09:00"
   },
   {
    "id": "7ca19330dcbe",
@@ -1238,7 +1250,8 @@
    "published": "2026-11-24T03:02:12+09:00",
    "summary": "",
    "keywords": [
-    "여수국가산업단지"
+    "여수국가산업단지",
+    "여수국가산단"
    ],
    "collected": "2026-11-24T06:06:53+09:00"
   },
@@ -1253,6 +1266,18 @@
     "온산국가산업단지"
    ],
    "collected": "2026-11-24T06:06:53+09:00"
+  },
+  {
+   "id": "47d2ff546145",
+   "title": "김정관 장관 \"연내 사업재편 마무리\"…여수산단 구조조정 속도 내나",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PTE51eXBxRUV6cjJFSzBXTE9idVlYOWx3Z05MVTh1T0ZCSF9ad2RuaEkwM2NEYzRULXhaeGlZMm93b0tEZW5MYzNvaEhrVWR1b0VKWG1rVXdsR3FVN1lMbQ?oc=5",
+   "source": "KBC광주방송",
+   "published": "2026-11-23T16:59:49+09:00",
+   "summary": "",
+   "keywords": [
+    "여수국가산단"
+   ],
+   "collected": "2026-11-29T02:27:26+09:00"
   },
   {
    "id": "55d37eaae3cb",
